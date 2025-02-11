@@ -42,5 +42,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or suggestions, feel free to reach out:
 
 - **GitHub:** [GalMizrachi](https://github.com/GalMizrachi)  
-- **Email:** [galmiz1709@gmail.com]
+- **Email:** galmiz1709@gmail.com
 ```
