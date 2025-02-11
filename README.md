@@ -1,4 +1,3 @@
-```markdown
 # 🌴 Vacation Manager
 
 **Vacation Manager** is a C# application designed to streamline vacation tracking and approvals. It offers an intuitive interface for managing time-off requests, leave balances, and holiday schedules efficiently.
@@ -24,7 +23,6 @@
    ```sh
    git clone https://github.com/GalMizrachi/MyVacationManager.git
    cd MyVacationManager
-   ```
 
 2. **Open in Visual Studio** and restore dependencies:
    - Open the `.sln` file in **Visual Studio**  
@@ -35,10 +33,6 @@
    dotnet run
    ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -48,5 +42,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or suggestions, feel free to reach out:
 
 - **GitHub:** [GalMizrachi](https://github.com/GalMizrachi)  
-- **Email:** [galmiz1709@gmail.com] 
+- **Email:** [galmiz1709@gmail.com]
 ```
