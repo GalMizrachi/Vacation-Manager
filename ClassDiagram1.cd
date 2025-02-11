@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyVacationManager.Classes.Hostel">
+    <Position X="0.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IACIAAAAAAAAAAAABAAAAAAAAAgAAAAAAAAAAAACIAA=</HashCode>
+      <FileName>Classes\Hostel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyVacationManager.Classes.Hotel">
+    <Position X="2.75" Y="8.5" Width="1.5" />
+    <InheritanceLine Type="MyVacationManager.Classes.PublicRentalSpace" FixedToPoint="true">
+      <Path>
+        <Point X="2.5" Y="7.896" />
+        <Point X="2.5" Y="8.2" />
+        <Point X="3.688" Y="8.2" />
+        <Point X="3.688" Y="8.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AEAIAAAAAAAAAAgAAAAAAAAAAEACBCAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Hotel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyVacationManager.Classes.PublicRentalSpace">
+    <Position X="1.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAAAAAAAYgA=</HashCode>
+      <FileName>Classes\PublicRentalSpace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyVacationManager.Classes.RentalProperty">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAEAAAAAQAQQAEAAAAAQQAAAAQBQABAABQAAABAA=</HashCode>
+      <FileName>Classes\RentalProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyVacationManager.Classes.RentalPropetyCollection" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAAAABAACAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\RentalPropetyCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyVacationManager.Classes.Villa">
+    <Position X="5.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAIAAEAAAAAABAAABAACAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Villa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyVacationManager.Form1" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAQAACAAABAAAACIIAACAAg4IBoBIHQCAAJAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyVacationManager.HostelDetails" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgCAIABAAggCAEAACAAQYgAAAAGAAAABAEFA=</HashCode>
+      <FileName>HostelDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyVacationManager.HostelForm" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAIAQAgCAEABAAgACIEAACAAQYAAIAAGAAAABAEBA=</HashCode>
+      <FileName>HostelForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyVacationManager.HotelDetails" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAMAAAACAIABAAAgCAECADAAAYAAAAAGEAQQBAAEA=</HashCode>
+      <FileName>HotelDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyVacationManager.HotelForm" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABMAAAACgAABAAAACAACACAAAYAAAAAHAAQQBAAAA=</HashCode>
+      <FileName>HotelForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyVacationManager.Program" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyVacationManager.VillaDetails" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACAIABAAQgCAAAACAAAYAAAABWAAAABAAUA=</HashCode>
+      <FileName>VillaDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyVacationManager.VillaForm" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAIKAAABAAQACAAAACAAAYAAAAAWAAAABAAQA=</HashCode>
+      <FileName>VillaForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyVacationManager.Properties.Resources" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAACQAgAQAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyVacationManager.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
